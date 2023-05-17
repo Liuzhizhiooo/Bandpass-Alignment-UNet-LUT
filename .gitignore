@@ -1,0 +1,8 @@
+createTree.py
+toydataset.py
+__pycache__
+.history
+dataset/data/*
+*.zip
+outputs/*
+tree.txt
